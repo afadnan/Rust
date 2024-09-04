@@ -1,0 +1,1 @@
+Basic of rust just learn cargo build -> for just compile -> debug -> unoptization || cargo run -> compile and give output -> unoptization || cargo run --release -> for optimization -> production
